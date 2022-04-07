@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <link rel="stylesheet" href="normalize.css">
+        <link rel="stylesheet" href="style.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap" rel="stylesheet">
+        <title> Pomodoro </title>
+    </head>
+
+    <body>
+    <!--Title-->
+    <div class="title-main">
+        <h1 class="title-main_h1"> Pomodoro </h1>
+    </div>
+
+    <!--Count-Timer-->
+    <div class="timer-title_pomodoro">
+        <p id="pomodoro" class="timer-pomodoro"> 20:00 </p>
+    </div>
+
+    <!--parameters of time-->
+    <div class="timer-main">
+        <label class="timer-main_label">
+            <div class="timer-main_label-div">
+                <td class="timer-main_label-td"> Minutes to work: <input class="timer-main_label-input" type="number" id="timer1" required="" pattern="[20 - 50]+"></td>
+            </div>
+            <div class="timer-main_label-div">
+                <td class="timer-main_label-td"> Minutes to reset: <input class="timer-main_label-input" type="number" id="timer2" required="" pattern="[5 - 15]+"></td>
+            </div>
+            <div class="timer-main_label-div">
+                <td class="timer-main_label-td"> Time to work. <input class="timer-main_label-input" type="number" id="timeToWork"></td>
+            </div>
+            <div class="timer-main_label-div">
+                <td class="timer-main_label-td"> Activity <input class="timer-main_label-input" type="text" id="listToActivities"></td>
+            </div>
+        </label>
+    </div>
+    <div class="timer-main_button">
+        <button class="timer-main_button-button" type="button" onclick="startTimer()"> Start </button>
+        <button type="button" onclick="activities()" class="timer-main_button-button"> Upload activity </button>
+    </div>
+
+    <div class="activities-main">
+        <p class="activities-main_p-title">current activities</p>
+        <p id="activity" class="activities-main_p"> Current activity: Guass Jordan </p>
+        <p id="timeToActivity" class="activities-main_p"> Time to do: 60 min </p>
+    </div>
+
+    <!--footer GitHub and LinkedIn-->
+    <footer class="footer">
+        <a href="https://github.com/jfaponte403" class="footer_a"> GitHub </a>
+        <a href="https://www.linkedin.com/in/jhonattan-aponte-286168222/" class="footer_a"> linkedin </a>
+        <a href="https://www.instagram.com/jhonattan_aponte/" class="footer_a"> Instagram </a>
+    </footer>
+    <script src="script.js"></script>
+    </body>
+
+</html>
