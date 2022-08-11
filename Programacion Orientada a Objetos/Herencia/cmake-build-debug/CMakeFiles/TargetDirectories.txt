@@ -1,0 +1,3 @@
+C:/Users/Jhonattan/Documents/Universidad/2 - Semestre/Programacion orientada a objetos/Corte 2/Talleres pendientes/Herencia/cmake-build-debug/CMakeFiles/Herencia.dir
+C:/Users/Jhonattan/Documents/Universidad/2 - Semestre/Programacion orientada a objetos/Corte 2/Talleres pendientes/Herencia/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Jhonattan/Documents/Universidad/2 - Semestre/Programacion orientada a objetos/Corte 2/Talleres pendientes/Herencia/cmake-build-debug/CMakeFiles/rebuild_cache.dir
