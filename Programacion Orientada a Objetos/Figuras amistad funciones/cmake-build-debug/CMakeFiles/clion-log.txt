@@ -1,0 +1,30 @@
+"C:\Program Files\JetBrains\CLion 2021.3.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2021.3.3/bin/ninja/win/ninja.exe" -G Ninja "C:\Users\Jhonattan\Documents\Universidad\2 - Semestre\Programacion orientada a objetos\Corte 2\Talleres pendientes\Amistad funciones\Figuras amistad funciones"
+-- The C compiler identification is GNU 11.2.0
+-- The CXX compiler identification is GNU 11.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: C:/Program Files/JetBrains/CLion 2021.3.3/bin/mingw/bin/gcc.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+CMake Warning in C:/Users/Jhonattan/Documents/Universidad/2 - Semestre/Programacion orientada a objetos/Corte 2/Talleres pendientes/Amistad funciones/Figuras amistad funciones/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeLists.txt:
+  The object file directory
+
+    C:/Users/Jhonattan/Documents/Universidad/2 - Semestre/Programacion orientada a objetos/Corte 2/Talleres pendientes/Amistad funciones/Figuras amistad funciones/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_32f3c.dir/./
+
+  has 225 characters.  The maximum full path to an object file is 250
+  characters (see CMAKE_OBJECT_PATH_MAX).  Object file
+
+    CMakeCXXCompilerABI.cpp.obj
+
+  cannot be safely placed under this directory.  The build may not work
+  correctly.
+
+
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: C:/Program Files/JetBrains/CLion 2021.3.3/bin/mingw/bin/g++.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Jhonattan/Documents/Universidad/2 - Semestre/Programacion orientada a objetos/Corte 2/Talleres pendientes/Amistad funciones/Figuras amistad funciones/cmake-build-debug

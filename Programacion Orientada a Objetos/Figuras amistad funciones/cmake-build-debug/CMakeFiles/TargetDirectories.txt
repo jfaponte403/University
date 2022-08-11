@@ -1,0 +1,3 @@
+C:/Users/Jhonattan/Documents/Universidad/2 - Semestre/Programacion orientada a objetos/Corte 2/Talleres pendientes/Amistad funciones/Figuras amistad funciones/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Jhonattan/Documents/Universidad/2 - Semestre/Programacion orientada a objetos/Corte 2/Talleres pendientes/Amistad funciones/Figuras amistad funciones/cmake-build-debug/CMakeFiles/Figuras_amistad_funciones.dir
+C:/Users/Jhonattan/Documents/Universidad/2 - Semestre/Programacion orientada a objetos/Corte 2/Talleres pendientes/Amistad funciones/Figuras amistad funciones/cmake-build-debug/CMakeFiles/edit_cache.dir

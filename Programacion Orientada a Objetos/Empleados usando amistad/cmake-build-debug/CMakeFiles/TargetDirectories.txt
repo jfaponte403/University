@@ -1,0 +1,3 @@
+C:/Users/Jhonattan/Documents/Universidad/2 - Semestre/Programacion orientada a objetos/Corte 2/Talleres pendientes/Empleados usando amistad/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Jhonattan/Documents/Universidad/2 - Semestre/Programacion orientada a objetos/Corte 2/Talleres pendientes/Empleados usando amistad/cmake-build-debug/CMakeFiles/Empleados_usando_amistad.dir
+C:/Users/Jhonattan/Documents/Universidad/2 - Semestre/Programacion orientada a objetos/Corte 2/Talleres pendientes/Empleados usando amistad/cmake-build-debug/CMakeFiles/rebuild_cache.dir
